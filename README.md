@@ -1,9 +1,10 @@
-![e640949366a76dbfc9be2f36c371a2e0](https://github.com/user-attachments/assets/c9fa275f-ce03-49cf-837f-799ef5207d72)
 # 👋 Hi, I'm Eli  
-### Computer Science Student • Python & React Developer • UI & Smooth Animations Lover ✨
+![653697](https://github.com/user-attachments/assets/638d0e65-14a8-4b5c-9fea-8208eb3504c4)
 
-I’m a 3rd year Computer Science student passionate about building clean, aesthetic and fast web experiences.
-Despide the focus of my career. I enjoy frontend development, smooth UI animations, and learning deeply how things work under the hood.
+### Computer Science Student and enthusiastic fFull-Stack developer
+
+I am in my fourth year of my degree in Computer Science. However, with a personal passion for web development.
+Enjoying the proccess of creating and developing clean, elegant, and efficient websites.  
 
 ---
 
@@ -31,8 +32,9 @@ Despide the focus of my career. I enjoy frontend development, smooth UI animatio
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Rivamar-blue?style=flat&logo=linkedin)](#)  
-[![Portfolio](https://img.shields.io/badge/https://portfolio-eliasrivamar.netlify.app/?style=flat&logo=firefox)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Rivamar-blue?style=flat&logo=linkedin)](www.linkedin.com/in/elias-rivamar-3a43b8269)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=flat&logo=firefox)](https://portfolio-eliasrivamar.netlify.app)
+
 
 ---
 
