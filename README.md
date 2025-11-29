@@ -2,32 +2,23 @@
 # 👋 Hi, I'm Eli  
 ### Computer Science Student • Python & React Developer • UI & Smooth Animations Lover ✨
 
-I’m a 3rd year Computer Science student passionate about building clean, aesthetic and fast web experiences.  
-I enjoy frontend development, smooth UI animations, and learning deeply how things work under the hood.
+I’m a 3rd year Computer Science student passionate about building clean, aesthetic and fast web experiences.
+Despide the focus of my career. I enjoy frontend development, smooth UI animations, and learning deeply how things work under the hood.
 
 ---
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,react,js,html,css,java,cpp,git,github,vite,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,react,js,html,css,javascript,ts,postgres,git,github,vite,tailwind,supabase)](https://skillicons.dev)
 
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced React patterns  
-- Web animations & UI smoothness (iOS / One UI inspired)  
+- Web animations & UI smoothness  
 - Clean architecture & scalable frontend structure  
 - Improving my backend foundations with Python  
-
----
-
-## 🧑‍💻 About Me
-
-- 🎯 I love mixing design + code to build interfaces that feel **smooth and enjoyable**  
-- ⚡ Big fan of superheroes, aesthetics, and creating polished UI experiences  
-- 🧠 I’m constantly learning and experimenting with new tools  
-- 🚀 My goal: become a well-rounded Software Engineer with strong frontend intuition  
 
 ---
 
@@ -41,7 +32,7 @@ I enjoy frontend development, smooth UI animations, and learning deeply how thin
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Rivamar-blue?style=flat&logo=linkedin)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=firefox)](#)
+[![Portfolio](https://img.shields.io/badge/https://portfolio-eliasrivamar.netlify.app/?style=flat&logo=firefox)](#)
 
 ---
 
