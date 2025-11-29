@@ -32,8 +32,8 @@ I enjoy frontend development, smooth UI animations, and learning deeply how thin
 
 ## 📊 GitHub Stats
 
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elirivamar&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elirivamar&layout=compact&theme=tokyonight&hide_border=true)
+![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliasrivamar&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasrivamar&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
