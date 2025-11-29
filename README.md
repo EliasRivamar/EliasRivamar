@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eli  
+### Computer Science Student and enthusiastic Full-Stack developer
 ![653697](https://github.com/user-attachments/assets/638d0e65-14a8-4b5c-9fea-8208eb3504c4)
 
-### Computer Science Student and enthusiastic fFull-Stack developer
 
 I am in my fourth year of my degree in Computer Science. However, with a personal passion for web development.
 Enjoying the proccess of creating and developing clean, elegant, and efficient websites.  
@@ -25,8 +25,10 @@ Enjoying the proccess of creating and developing clean, elegant, and efficient w
 
 ## 📊 GitHub Stats
 
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliasrivamar&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasrivamar&layout=compact&theme=tokyonight&hide_border=true)
+![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elirivamar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elirivamar&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
