@@ -1,3 +1,4 @@
+![e640949366a76dbfc9be2f36c371a2e0](https://github.com/user-attachments/assets/c9fa275f-ce03-49cf-837f-799ef5207d72)
 # 👋 Hi, I'm Eli  
 ### Computer Science Student • Python & React Developer • UI & Smooth Animations Lover ✨
 
